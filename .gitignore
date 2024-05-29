@@ -1,0 +1,7 @@
+.idea
+.vscode
+cmake-build-debug
+Doc
+Listing
+Output
+Misc/main.c

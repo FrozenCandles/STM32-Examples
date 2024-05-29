@@ -1,0 +1,1 @@
+move ..\Output\output.hex .\output.hex
